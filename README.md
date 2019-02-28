@@ -1,6 +1,6 @@
 # Yosemite Campsite Finder
 
-UPDATE FEB 28: NPS update their site, so this script needs to be updated to work.
+UPDATE FEB 28, 2019: NPS update their site, so this script needs to be updated to work.
 
 
 This Python script is meant to facilitate campsite searching for Yosemite NP for a 2-week range. To run this script, you will need to install Beautiful Soup.
